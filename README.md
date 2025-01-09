@@ -5,10 +5,11 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&quote=热爱code的程序媛。&author=luckyH"  />
 </p>
-:blue_book: 一些技能
-<p align=left>
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nodejs,less,nginx,vite,pinia)](https://skillicons.dev)
+<p>:blue_book: 一些技能</span> 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nodejs,less,nginx,vite,pinia" />
 </p>
+
 ![lgrdf's github activity graph](https://raw.githubusercontent.com/lgrdf/lgrdf/output/github-contribution-grid-snake.svg)
 
 
